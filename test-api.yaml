@@ -16,5 +16,7 @@ components:
       properties:
         testId:
           type: string
+        thisIsATest:
+          type: boolean
       required:
         - testId
