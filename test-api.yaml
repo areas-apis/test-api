@@ -14,5 +14,7 @@ components:
       title: Test
       type: object
       properties:
-        id:
+        testId:
           type: string
+      required:
+        - testId
