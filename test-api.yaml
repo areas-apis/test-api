@@ -1,0 +1,18 @@
+openapi: 3.1.0
+info:
+  title: Test API
+  description: Use the Test API to test stuff.
+  version: 0.1.0
+  contact:
+    name: Christian
+    email: me@areas.me
+servers:
+  - url: api.test.com
+components:
+  schemas:
+    Test:
+      title: Test
+      type: object
+      properties:
+        id:
+          type: string
