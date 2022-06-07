@@ -1,4 +1,6 @@
 openapi: 3.1.0
+x-stoplight:
+  id: c5d3780efe0d4
 info:
   title: Test API
   description: Use the Test API to test stuff.
