@@ -9,7 +9,7 @@ info:
     name: Christian
     email: me@areas.me
 servers:
-  - url: api.test.com
+  - url: https://api.test.com
 components:
   schemas:
     Test:
